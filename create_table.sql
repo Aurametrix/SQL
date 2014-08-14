@@ -20,4 +20,6 @@ FirstName varchar(255),
 Address varchar(255),
 City varchar(255)
 );
+the PersonID column will hold an integer
+the PErsons table will have 5 columns
  */
