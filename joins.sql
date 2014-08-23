@@ -64,6 +64,46 @@ select * from a FULL OUTER JOIN b on a.a = b.b;
 
 ---- A full outer join will give the union of A and B
 
+/*  In Access
+One of the values you can specify for each relationship is the join type. 
+(On the Design tab, in the Tools group, click Edit Relationships.)
+The join type tells Access which records to include in a query result.
+inner join is default (option "1"):
+"only include rows where the joined fields from both tables are equal"
+
+Left outer join is option "2"
+include all records from "1st table .." and only those from ..2nd table" where 
+the joined fields are equal
+
+Right outer join is option "3"
+include all records from ..2nd tbl"  and only those from "1st tbl" where 
+the joined fields are equal
+*/
+
+---- MySQL doesn't have FULL Outer join:
+
+SELECT * FROM TableA A
+LEFT JOIN TableB B ON A.name = B.name
+UNION
+SELECT * FROM TableA A
+RIGHT JOIN TableB B ON A.name = B.name
+
+---- for improved performance, use UNION
+SELECT TableA.*, TableB.* 
+FROM 
+  TableA LEFT OUTER JOIN TableB
+    ON TableA.name = TableB.name
+
+UNION ALL
+
+SELECT TableA.*, TableB.*
+FROM 
+  TableA RIGHT OUTER JOIN TableB
+    ON TableA.name = TableB.name
+WHERE 
+    TableA.name IS NULL ;
+
+
 /* 
 Left outer join produces a complete set of records from Table A, with the matching records 
 (where available) in Table B. If there is no match, the right side will contain null.
@@ -90,3 +130,12 @@ select a.*,b.*  from a,b where a.a = b.b(+);
 */
 
 ---- A left outer join will give all rows in A, plus any common rows in B.
+
+
+
+/* 
+Cross join joins everything to everything
+*/
+
+SELECT * FROM TableA
+CROSS JOIN TableB
