@@ -14,3 +14,7 @@ SELECT  LastName
 FROM PersonID o
 WHERE (SELECT count(*) FROM EMPLOYEE i WHERE i.name < o.name) < 5
 */
+
+
+/* specify what table and what column */
+SELECT all_my_books FROM myLibrary;
