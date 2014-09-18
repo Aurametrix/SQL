@@ -13,6 +13,11 @@ EXEC sp_updatestats
 The other way, is to use the The other way, is to use the UPDATE_STATISTICS command 
 that gives much better granularity of control
 
+It's used when a large processing of data has occurred. 
+If a large amount of deletions any modification or Bulk Copy into the tables has occurred, 
+it has to update the indexes to take these changes into account. 
+UPDATE_STATISTICS updates the indexes on these tables accordingly.
+
 */
 -- Update all statistics on a table
 UPDATE STATISTICS Sales.SalesOrderDetail
