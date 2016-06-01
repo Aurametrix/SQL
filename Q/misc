@@ -1,0 +1,201 @@
+50 Popular SQL simple Interview Questions for Testers
+
+Q#1. What does SQL stand for?
+Ans. SQL stands for Structured Query Language.
+
+Q#2. How to select all records from the table? 
+Ans. To select all the records from the table we need to use following syntax:
+
+Select * from table_name;
+
+Q#3. Define join and name different type of joins?
+Ans. Join keyword is used to fetch data from related two or more tables. It returns rows where there is at least one match in both the tables included in join. Read more here.
+Type of joins are-
+
+Right Join
+Outer Join
+Full Join
+Cross Join
+Self Join.
+Q#4. What is the syntax to add record to a table?
+Ans. To add record in a table INSERT syntax is used.
+
+Ex: INSERT into table_name VALUES (value1, value2..);
+
+Q#5. How do you add a column to a table? 
+Ans. To add another column in the table following command has been used.
+
+ALTER TABLE table_name ADD (column_name);
+
+Q#6. Define SQL Delete statement.
+Ans. Delete is used to delete a row or rows from a table based on the specified condition.
+Basic syntax is as follows:
+
+DELETE FROM table_name
+
+WHERE <Condition>
+
+Q#7. Define COMMIT ?
+Ans. COMMIT saves all changes made by DML statements.
+
+Q#8. What is a primary key? 
+Ans. A Primary key is column whose values uniquely identify every row in a table. Primary key values can never be reused.
+
+Q#9. What are foreign keys?
+Ans. When a one table’s primary key field is added to related tables in order to create the common field which relates the two tables, it called a foreign key in other tables.
+Foreign Key constraints enforce referential integrity.
+
+Q#10. What is CHECK Constraint? 
+Ans. A CHECK constraint is used to limit the values or type of data that can be stored in a column. They are used to enforce domain integrity.
+
+Q#11. Is it possible for a table to have more than one foreign key? 
+Ans. Yes, a table can have many foreign keys and only one primary key.
+
+Q#12. What are the possible values for BOOLEAN data field. 
+Ans. For a BOOLEAN data field two values are possible: -1(true) and 0(false).
+
+Q#13. What is a stored procedure? 
+Ans. A stored procedure is a set of SQL queries which can take input and send back output.
+
+Q#14. What is identity in SQL?
+Ans. An identity column in the SQL automatically generates numeric values. We can defined a start and increment value of identity column.
+
+Q#15. What is Normalization?
+Ans. The process of table design to minimize the data redundancy is called normalization. We need to divide a database into two or more table and define relationships between them.
+
+Q#16. What is Trigger? 
+Ans. Trigger allows us to execute a batch of SQL code when a table event occurs (Insert, update or delete command executed against a specific table)
+
+Q#17. How to select random rows from a table? 
+Ans. Using SAMPLE clause we can select random rows.
+
+Example:
+SELECT * FROM table_name SAMPLE(10);
+
+Q#18. Which TCP/IP port does SQL Server run?
+Ans. By default SQL Server runs on port 1433.
+
+Q#19. Write a SQL SELECT query that only returns each name only once from a table?
+Ans. To get the each name only once, we need to use the DISTINCT keyword.
+
+SELECT DISTINCT name FROM table_name;
+
+Q#20. Explain DML and DDL?
+Ans. DML stands for Data Manipulation Language. INSERT, UPDATE and DELETE  are DML statements.
+
+DDL stands for Data Definition Language. CREATE ,ALTER, DROP, RENAME are DDL statements.
+
+Q#21. Can we rename a column in the output of SQL query?
+Ans. Yes using the following syntax we can do this.
+
+SELECT column_name AS new_name FROM table_name;
+
+Q#22. Give the order of SQL SELECT ?
+Ans. Order of SQL SELECT clauses is: SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY. Only the SELECT and FROM clause are mandatory.
+
+Q#23. Suppose a Student column has two columns, Name and Marks. How to get name and marks of top three students.
+Ans. SELECT Name, Marks FROM Student s1 where 3 <= (SELECT COUNT(*) FROM Students s2 WHERE s1.marks = s2.marks)
+
+Q#24. What is SQL comments?
+Ans. SQL comments can be put by two consecutive hyphens (–).
+
+Q#25. Difference between TRUNCATE, DELETE and DROP commands? 
+Ans. DELETE removes some or all rows from a table based on the condition. It can be rolled back.
+
+------------
+
+ 
+
+TRUNCATE removes ALL rows from a table by de-allocating the memory pages. The operation cannot be rolled back
+
+DROP command removes a table from the database completely.
+
+Q#26. What are the properties of a transaction?
+Ans. Generally these properties are referred as ACID properties. They are:
+
+Atomicity
+Consistency
+Isolation
+Durability.
+Q#27. What do you mean by ROWID ? 
+Ans. It’s a 18 character long pseudo column attached with each row of a table.
+
+Q#28. Define UNION, MINUS, UNION ALL, INTERSECT ?
+Ans. MINUS – returns all distinct rows selected by the first query but not by the second.
+
+UNION – returns all distinct rows selected by either query
+
+UNION ALL – returns all rows selected by either query, including all duplicates.
+
+INTERSECT – returns all distinct rows selected by both queries.
+
+Q#29. What is a transaction?
+Ans. A transaction is a sequence of code that runs against a database. It takes database from one consistent state to another.
+
+Q#30. What is difference between UNIQUE and PRIMARY KEY constraints? 
+Ans. A table can have only one PRIMARY KEY whereas there can be any number of UNIQUE keys.
+
+Primary key cannot contain Null values whereas Unique key can contain Null values.
+
+Q#31. What is a composite primary key?
+Ans. Primary key created on more than one column is called composite primary key.
+
+Q#32. What is an Index ?
+Ans. An Index is an special structure associated with a table speed up the performance of queries. Index can be created on one or more columns of a table.
+
+Q#33. What is the Subquery ? 
+Ans. A Subquery is sub set of select statements whose return values are used in filtering conditions of the main query.
+
+Q#34. What do you mean by query optimization? 
+Ans. Query optimization is a process in which database system compares different query strategies and select the query with the least cost.
+
+Q#35. What is Collation? 
+Ans. Set of rules that defines how data is stored, how case sensitivity and Kana character can be treated etc.
+
+Q#36. What is Referential Integrity?
+Ans. Set of rules that restrict the values of one or more columns of the tables based on the values of primary key or unique key of the referenced table.
+
+Q#37. What is Case Function? 
+Ans. Case facilitates if-then-else type of logic in SQL. It evaluates a list of conditions and returns one of multiple possible result expressions.
+
+Q#38. Define a temp table?
+Ans. A temp table is a temporary storage structure to store the data temporarily.
+
+Q#39. How we can avoid duplicating records in a query? 
+Ans. By using DISTINCT keyword duplicating records in a query can be avoided.
+
+Q#40. Explain the difference between Rename and Alias?
+Ans. Rename is a permanent name given to a table or column whereas Alias is a temporary name given to a table or column.
+
+Q#41. What is a View?
+Ans. A view is a virtual table which contains data from one or more tables. Views restrict data access of table by selecting only required values and make complex queries easy.
+
+Q#42. What are the advantages of Views?
+Ans. Advantages of Views:
+
+Views restrict access to the data because the view can display selective columns from the table.
+Views can be used to make simple queries to retrieve the results of complicated queries. For example, views can be used to query information from multiple tables without the user knowing.
+Q#43. List the various privileges that a user can grant to another user?
+Ans.   SELECT, CONNECT, RESOURCES.
+
+Q#44. What is schema? 
+Ans. A schema is collection of database objects of a User.
+
+Q#45. What is Table ? 
+Ans. A table is the basic unit of data storage in the database management system. Table data is stored in rows and columns.
+
+Q#46. Do View contain Data? 
+Ans. No, Views are virtual structure.
+
+Q#47. Can a View based on another View? 
+Ans. Yes, A View is based on another View.
+
+Q#48. What is difference between Having clause and Where clause? 
+Ans. Both specify a search condition but Having clause is used only with the SELECT statement and typically used with GROUP BY clause.
+If GROUP BY clause is not used then Having behaves like WHERE clause only.
+
+Q#49. What is difference between Local and Global temporary table? 
+Ans. If defined in inside a compound statement a local temporary table exists only for the duration of that statement but a global temporary table exists permanently in the db but its rows disappears when the connection is closed.
+
+Q#50. What is CTE?
+Ans. A CTE or common table expression is an expression which contains temporary result set which is defined in a SQL statement.
