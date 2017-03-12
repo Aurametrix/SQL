@@ -31,5 +31,15 @@ http://www.mysqltutorial.org/
 ### SQL course
 http://www.sqlcourse.com/
 
-### SQL for WEb nerds
+### SQL for Web nerds
 SQL for Web Nerds
+
+### Google Cloud SQL for Postgres
+https://cloud.google.com/sql/docs/postgres/
+
+### Improving Azure SQL
+https://feedback.azure.com/forums/217321-sql-database/suggestions/8300487-mysql-and-postgresql-as-daas-from-ms-like-an-azur
+
+https://feedback.azure.com/forums/217321-sql-database/suggestions/8403264-offer-postgresql-as-a-paas-daas-service-not-via-a
+
+https://feedback.azure.com/forums/217321-sql-database/filters/top
