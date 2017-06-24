@@ -1,0 +1,51 @@
+npm install serverless -g
+
+git clone https://github.com/fauna/serverless-graphql-blog
+cd serverless-graphql-blog
+
+npm install
+cd blogs
+npm install
+
+#Querying with GraphiQL
+
+
+{ authors { name } }
+Results
+{
+  "data":{
+    "authors":[
+      {"name":"Chris"}
+    ]
+  }
+}
+
+# List of posts with id and title
+
+{ posts { id, title } }
+Results
+{
+  "data": {
+    "posts": [
+      { "id":"1",
+        "title":"First Post Title"
+      }
+    ]
+  }
+}
+List of posts with id, title and nested author name
+
+{ posts { id, title, author { name } } }
+Results
+{
+  "data": {
+    "posts": [
+      { "id":"1",
+        "title":"First Post Title",
+        "author":{
+          "name":"Chris"
+        }
+      }
+    ]
+  }
+}
