@@ -45,5 +45,7 @@ https://feedback.azure.com/forums/217321-sql-database/suggestions/8403264-offer-
 https://feedback.azure.com/forums/217321-sql-database/filters/top
 
 ### SQLAlchemy
-[SQLAlchemy Object Relational Mapper](http://docs.sqlalchemy.org/en/latest/orm/tutorial.html)
-[Django database-abstraction API](https://docs.djangoproject.com/en/1.11/topics/db/queries/)
+
++ [SQLAlchemy Object Relational Mapper](http://docs.sqlalchemy.org/en/latest/orm/tutorial.html)
++ [Django database-abstraction API](https://docs.djangoproject.com/en/1.11/topics/db/queries/)
+
