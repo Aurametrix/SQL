@@ -1,0 +1,34 @@
+# most commonly used GO packages
+SELECT
+  REGEXP_EXTRACT(line, r'"([^"]+)"') AS url,
+  COUNT(*) AS count
+FROM
+  FLATTEN( (
+    SELECT
+      SPLIT(SPLIT(REGEXP_EXTRACT(content, r'.*import\s*[(]([^)]*)[)]'), '\n'), ';') AS line,
+    FROM (
+      SELECT
+        id,
+        content
+      FROM
+        [bigquery-public-data:github_repos.sample_contents]
+      WHERE
+        REGEXP_MATCH(content, r'.*import\s*[(][^)]*[)]')) AS C
+    JOIN (
+      SELECT
+        id
+      FROM
+        [bigquery-public-data:github_repos.sample_files]
+      WHERE
+        path LIKE '%.go'
+      GROUP BY
+        id) AS F
+    ON
+      C.id = F.id), line)
+GROUP BY
+  url
+HAVING
+  url IS NOT NULL
+ORDER BY
+  count DESC
+LIMIT 10
