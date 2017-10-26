@@ -2,7 +2,11 @@
 
 A query language for APIs created by Facebook.
 
-resources [from the community](http://graphql.org/community/).
+### Intro
+
+Resources [from the community](http://graphql.org/community/)
+
+[Framework](https://blog.graph.cool/introducing-the-graphcool-framework-d9edab2a7816) /[code](https://github.com/graphcool/framework)
 
 
 GraphQL consists of a type system, query language and execution semantics,
