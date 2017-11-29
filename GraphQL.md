@@ -1,6 +1,8 @@
 # GraphQL
 
-A query language for APIs created by Facebook.
+http://graphql.org/
+
+A query language for APIs created by Facebook, adapted by [AwS](https://aws.amazon.com/blogs/aws/introducing-amazon-appsync/)
 
 ### Intro
 
