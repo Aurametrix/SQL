@@ -13,6 +13,9 @@ https://www.khanacademy.org/computing/computer-programming/sql
 ### SQL for beginners
 https://code.tutsplus.com/articles/sql-for-beginners--net-8200
 
+### [Indexing and Tuning](http://use-the-index-luke.com/) - 
+free web-edition of "SQL Performance Explained"
+
 ### The SQL Tutorial for Data Analysis
 https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/
 
