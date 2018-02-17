@@ -7,11 +7,12 @@ http://www.w3schools.com/sql/default.asp
 ### SQLZoo Interactive SQL tutorial
 http://sqlzoo.net/
 
-### Khan Academy - SQL Basics
-https://www.khanacademy.org/computing/computer-programming/sql
+### SQL Basics
++ [Khan Academy]https://www.khanacademy.org/computing/computer-programming/sql
 
-### SQL for beginners
-https://code.tutsplus.com/articles/sql-for-beginners--net-8200
++ [SQL for beginners](https://code.tutsplus.com/articles/sql-for-beginners--net-8200)
+
++ [TOP 10 new features in MySQL 8.0 for DBAs & Ops](http://lefred.be/content/top-10-mysql-8-0-features-for-dbas-ops/)
 
 ### [Indexing and Tuning](http://use-the-index-luke.com/) - 
 free web-edition of "SQL Performance Explained"
