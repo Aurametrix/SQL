@@ -1,0 +1,16 @@
+// mockSchema.js
+import { makeExecutableSchema, addMockFunctionsToSchema } from 'graphql-tools';
+import typeDefs from './typeDefs';
+
+// Create a schema with no resolvers
+const schema = makeExecutableSchema({
+   typeDefs
+});
+
+// Add mock functions to your schema
+addMockFunctionsToSchema({
+   schema,
+});
+
+// Export a fully functioning schema that resolves correctly typed data
+export default schema;
