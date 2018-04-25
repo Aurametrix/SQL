@@ -36,7 +36,9 @@ http://www.mysqltutorial.org/
 http://www.sqlcourse.com/
 
 ### SQL for Web nerds
-SQL for Web Nerds
+[SQL for Web Nerds](https://philip.greenspun.com/sql/)
+
++ [MYSQL 8.0](https://modern-sql.com/blog/2018-04/mysql-8.0)
 
 ### Google Cloud SQL for Postgres
 https://cloud.google.com/sql/docs/postgres/
