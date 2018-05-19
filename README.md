@@ -57,6 +57,11 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 
 + [A list of command line tools for manipulating structured text data](https://github.com/dbohdan/structured-text-tools)
 
+
+### General Database links
+
++ [Intro into database storage engines](http://sergeiturukin.com/2017/06/07/storage-engine-introduction.html)
+
 ### SQL-based utilities
 
 | Name and link | Programming language and database engine | Features | Usage link | License |
