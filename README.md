@@ -40,6 +40,8 @@ http://www.sqlcourse.com/
 
 + [MYSQL 8.0](https://modern-sql.com/blog/2018-04/mysql-8.0)
 
++ [Database Modeler](https://pgmodeler.io/), / [github](https://github.com/rkhaotix/pgmodeler)
+
 ### Google Cloud SQL for Postgres
 https://cloud.google.com/sql/docs/postgres/
 
