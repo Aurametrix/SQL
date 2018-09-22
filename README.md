@@ -45,6 +45,9 @@ http://www.sqlcourse.com/
 ### Google Cloud SQL for Postgres
 https://cloud.google.com/sql/docs/postgres/
 
+### GraphQL
++ [visual editor](https://github.com/slothking-online/graphql-editor)
+
 ### Improving Azure SQL
 https://feedback.azure.com/forums/217321-sql-database/suggestions/8300487-mysql-and-postgresql-as-daas-from-ms-like-an-azur
 
