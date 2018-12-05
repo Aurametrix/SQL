@@ -67,6 +67,10 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 
 + [Intro into database storage engines](http://sergeiturukin.com/2017/06/07/storage-engine-introduction.html)
 
+### Interesting
+
++ [A history of the distributed transactional database](https://www.infoq.com/articles/relational-nosql-fauna)
+
 ### SQL-based utilities
 
 | Name and link | Programming language and database engine | Features | Usage link | License |
