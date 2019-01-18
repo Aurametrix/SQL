@@ -68,6 +68,8 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 ### General Database links
 
 + [Intro into database storage engines](http://sergeiturukin.com/2017/06/07/storage-engine-introduction.html)
++ [Dbeaver](https://dbeaver.io/) - multiplatform database tool
+
 
 ### Interesting
 
