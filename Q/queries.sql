@@ -10,3 +10,20 @@ SQL Server Equivalent of Oracle SUBSTR is SUBSTRING, Query : select substring(FI
 
 -- remove duplicates
 SELECT DISTINCT CAST(start_date AS DATE) FROM table;
+
+-- Pattern matching
+Select * from Student where studentname like 'a%'
+Select * from Student where studentname like 'ami_'
+
+
+-- There are many ways to fetch first 5 characters of the string
+
+Select SUBSTRING(StudentName,1,5) as studentname from student
+Select RIGHT(Studentname,5) as studentname from student
+
+-- To get all countries where customers locate as a comma-separated string, you use the GROUP_CONCAT function as follows:
+
+SELECT 
+    GROUP_CONCAT(country)
+FROM
+    customers;
