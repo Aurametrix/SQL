@@ -1,0 +1,5 @@
+// Listen for any change on document `marie` in collection `users`
+exports.myFunctionName = functions.firestore
+    .document('users/marie').onWrite((change, context) => {
+      // ... Your code here
+    });
