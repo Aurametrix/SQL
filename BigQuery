@@ -1,3 +1,17 @@
+#standardSQL
+    SELECT TIMESTAMP_TRUNC(timestamp, MONTH) as month_posted,
+    COUNT(*) as num_posts_gte_5
+    FROM `bigquery-public-data.hacker_news.full`
+    WHERE REGEXP_CONTAINS(title, 'YC [S|W][0-9]{2}')
+    AND score >= 5
+    AND timestamp >= '2015-01-01'
+    GROUP BY 1
+    ORDER BY 1
+    
+# https://docs.google.com/spreadsheets/d/1EBcI3Jm2I9Kj_JMGyRnNIWZ89EfFscZA5RKVQuGVVV4/edit#gid=1510844107    
+
+###################33
+
 # most commonly used GO packages
 SELECT
   REGEXP_EXTRACT(line, r'"([^"]+)"') AS url,
