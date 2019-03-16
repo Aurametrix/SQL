@@ -44,6 +44,8 @@ http://www.sqlcourse.com/
 
 + [AlaSQL.js](https://github.com/agershun/alasql) - - JavaScript SQL database for browser and Node.js
 
+
+
 ### Google Cloud SQL for Postgres
 https://cloud.google.com/sql/docs/postgres/
 
@@ -69,7 +71,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 
 + [Intro into database storage engines](http://sergeiturukin.com/2017/06/07/storage-engine-introduction.html)
 + [Dbeaver](https://dbeaver.io/) - multiplatform database tool
-
++ [A Comparison of Scalable Database Isolation Levels](https://fauna.com/blog/a-comparison-of-scalable-database-isolation-levels)
 
 ### Interesting
 
