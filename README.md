@@ -77,6 +77,9 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 
 + [A history of the distributed transactional database](https://www.infoq.com/articles/relational-nosql-fauna)
 
+##### Other DAtabases
++ [Yugabyte DB](https://jepsen.io/analyses/yugabyte-db-1.1.9)
+
 ### SQL-based utilities
 
 | Name and link | Programming language and database engine | Features | Usage link | License |
