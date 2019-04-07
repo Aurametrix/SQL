@@ -77,6 +77,8 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 
 + [A history of the distributed transactional database](https://www.infoq.com/articles/relational-nosql-fauna)
 
++ [PostgreSQL as the substructure for IoT and the next wave of computing](https://blog.timescale.com/postgres-accidental-iot-platform-timescaledb-postgresql-time-series-data-7983d28da5af/)
+
 ##### Other DAtabases
 + [Yugabyte DB](https://jepsen.io/analyses/yugabyte-db-1.1.9)
 
