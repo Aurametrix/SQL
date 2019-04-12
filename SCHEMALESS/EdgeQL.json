@@ -1,0 +1,42 @@
+def get_movie(conn, id):
+    return conn.fetchone_json('''
+        SELECT Movie {
+            id,
+            image,
+            title,
+            year,
+            description,
+            avg_rating,
+
+            directors: {
+                id,
+                full_name,
+                image,
+            }
+            ORDER BY @list_order EMPTY LAST
+                     THEN .last_name,
+
+            cast: {
+                id,
+                full_name,
+                image,
+            }
+            ORDER BY @list_order EMPTY LAST
+                     THEN .last_name,
+
+            reviews := (
+                SELECT Movie.<movie {
+                    id,
+                    body,
+                    rating,
+                    author: {
+                        id,
+                        name,
+                        image,
+                    }
+                }
+                ORDER BY .creation_time DESC
+            ),
+        }
+        FILTER .id = <uuid>$id
+    ''', id=id)
