@@ -84,6 +84,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 ##### Other Databases
 + [Yugabyte DB](https://jepsen.io/analyses/yugabyte-db-1.1.9)
 + [InfluxDB, TimescaleDB, OpenTSDB, Graphite](http://devconnected.com/4-best-time-series-databases-to-watch-in-2019/) - 4 Best Time Series Databases To Watch in 2019
++ [SirixDB](https://github.com/sirixdb/sirix)
 
 ### SQL-based utilities
 
