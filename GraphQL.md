@@ -1097,6 +1097,38 @@ file in GraphQL.js
 contains code implementing a specification-compliant GraphQL query
 introspection system.
 
+
+##### Hooks & onwards
+To further simplify the usage of GraphQL in React applications, useQuery, useMutation and useSubscription Hooks alongside the classic render prop pattern:
+
+import { useQuery, useMutation } from 'urql';
+import { getTodosQuery, addTodoMutation } from './queries';
+
+const TodoForm = () => {
+  const [getResponse] = useQuery({ query: getTodosQuery });
+  const [addResponse, addTodo] = useMutation(addTodoMutation);
+
+  if (getResponse.fetching) {
+    return 'Loading...';
+  } else if (getResponse.error || addResponse.error) {
+    return 'Oh no!';
+  }
+
+  return (
+    <>
+      <ul>
+        {getResponse.data.todos.map(({ id, text }) => (
+          <li key={id}>{text}</li>
+        ))}
+      </ul>
+      <button onClick={() => addTodo({ text: 'something!' })}>
+        Add something!
+      </button>
+    </>
+  );
+};
+
+
 ### Additional Content
 
 This README walked through the GraphQL.js reference implementation's type
