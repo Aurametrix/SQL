@@ -100,6 +100,8 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 | [trdsql](https://github.com/noborus/trdsql) | Go, MySQL/PostgreSQL/SQLite 3 | Use header row for column names. Custom field separator (string literal). Table JOINs. CSV, [LTSV](http://ltsv.org/), and JSON input. CSV, LTSV, JSON, ASCII table, Markdown output. | [Usage](https://github.com/noborus/trdsql#usage) | MIT |
 | [textql](https://github.com/dinedal/textql) | Go, SQLite 3 | Use header rows for column names. Keep SQLite file. Custom input field separator (string literal). | [Usage](https://github.com/dinedal/textql#usage) | MIT |
 
++ [OctoSQL](https://github.com/cube2222/octosql) - query tool to join, analyse and transform data from multiple databases and file formats using SQL
+
 
 ### Test
 
