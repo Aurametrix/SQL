@@ -83,10 +83,11 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 
 + [DAtabase Systems](http://webdam.inria.fr/Alice/) - book
 
-##### Other Databases
+##### Other Databases & Query languages
 + [Yugabyte DB](https://jepsen.io/analyses/yugabyte-db-1.1.9)
 + [InfluxDB, TimescaleDB, OpenTSDB, Graphite](http://devconnected.com/4-best-time-series-databases-to-watch-in-2019/) - 4 Best Time Series Databases To Watch in 2019
 + [SirixDB](https://github.com/sirixdb/sirix)
++ [PatriQL](https://aws.amazon.com/blogs/opensource/announcing-partiql-one-query-language-for-all-your-data/)
 
 ### SQL-based utilities
 
