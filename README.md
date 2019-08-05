@@ -44,6 +44,7 @@ http://www.sqlcourse.com/
 
 + [AlaSQL.js](https://github.com/agershun/alasql) - - JavaScript SQL database for browser and Node.js
 
++ PostgreSQL 11 [Built-in web search](https://habrahabr.info/development/postgresql/1310-whats-new-in-postgresql-11-built-in-web-search.html)
 
 
 ### Google Cloud SQL for Postgres
