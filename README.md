@@ -85,7 +85,17 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 
 + [PostgreSQL as the substructure for IoT and the next wave of computing](https://blog.timescale.com/postgres-accidental-iot-platform-timescaledb-postgresql-time-series-data-7983d28da5af/)
 
-+ [DAtabase Systems](http://webdam.inria.fr/Alice/) - book
++ [Database Systems](http://webdam.inria.fr/Alice/) - book
+
++ [BI stack](https://news.ycombinator.com/item?id=21513566) -- 11/12/2019
+    + Tableau/Data Stuio: SAP -> SAP services -> tableau. * Some depts use Excel -> Python -> tableau
+    + Stitch / Segment -> BigQuery -> Dataform -> BigQuery -> Looker OR Segment -> Amplitude/Mixpanel
+    + Metabase: Postgres -> Metabase (+ Bigquery)  
+    + Looker: Airflow -> S3 -> DBT with Spark/EMR or Redshift/Spectrum -> Redshift data marts -> Looker
+    + from plain SQL, to Mode, to Mixpanel, Looker, Interana, and Hive to [PopSQL](https://popsql.com)
+    + Luigi, AWS S3, DBT, Snowflake and Re:dash
+    + Holistics.io; Apache Superset
+    + SQL Server, SSIS, SSRS, PowerBI
 
 ##### Other Databases & Query languages
 + [Yugabyte DB](https://jepsen.io/analyses/yugabyte-db-1.1.9)
