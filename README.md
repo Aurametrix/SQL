@@ -98,6 +98,8 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
     + Luigi, AWS S3, DBT, Snowflake and Re:dash
     + Holistics.io; Apache Superset
     + SQL Server, SSIS, SSRS, PowerBI
+    
+ + [SQLite tools for personal analytics](https://dogsheep.github.io/)   
 
 ##### Other Databases & Query languages
 + [Yugabyte DB](https://jepsen.io/analyses/yugabyte-db-1.1.9)
