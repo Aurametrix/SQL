@@ -46,6 +46,7 @@ http://www.sqlcourse.com/
 
 + PostgreSQL 11 [Built-in web search](https://habrahabr.info/development/postgresql/1310-whats-new-in-postgresql-11-built-in-web-search.html)
 
++ [Intro to PostgreSQL](https://ncona.com/2020/01/introduction-to-postgresql/)
 
 ### Google Cloud SQL for Postgres
 https://cloud.google.com/sql/docs/postgres/
