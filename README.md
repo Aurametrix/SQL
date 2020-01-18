@@ -123,6 +123,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 | [textql](https://github.com/dinedal/textql) | Go, SQLite 3 | Use header rows for column names. Keep SQLite file. Custom input field separator (string literal). | [Usage](https://github.com/dinedal/textql#usage) | MIT |
 
 + [OctoSQL](https://github.com/cube2222/octosql) - query tool to join, analyse and transform data from multiple databases and file formats using SQL
++ [eSQLate](https://github.com/forbesmyester/esqlate) - Build minimum viable admin panels quickly with just SQL
 
 
 ### Test
