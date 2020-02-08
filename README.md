@@ -99,7 +99,9 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
     + Luigi, AWS S3, DBT, Snowflake and Re:dash
     + Holistics.io; Apache Superset
     + SQL Server, SSIS, SSRS, PowerBI
-    
+ 
+ + [Database Lab](https://gitlab.com/postgres-ai/database-lab)
+ 
  + [SQLite tools for personal analytics](https://dogsheep.github.io/)   
 
 ##### Other Databases & Query languages
