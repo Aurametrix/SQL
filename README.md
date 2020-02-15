@@ -110,6 +110,8 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [SirixDB](https://github.com/sirixdb/sirix)
 + [PatriQL](https://aws.amazon.com/blogs/opensource/announcing-partiql-one-query-language-for-all-your-data/)
 
++ [HAMAP-SPARQL](https://github.com/sib-swiss/HAMAP-SPARQL) fr genomes and proteomes ([paper](https://academic.oup.com/gigascience/article/9/2/giaa003/5731417))
+
 ### SQL-based utilities
 
 | Name and link | Programming language and database engine | Features | Usage link | License |
