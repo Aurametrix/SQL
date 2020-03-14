@@ -86,6 +86,8 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 
 + [PostgreSQL as the substructure for IoT and the next wave of computing](https://blog.timescale.com/postgres-accidental-iot-platform-timescaledb-postgresql-time-series-data-7983d28da5af/)
 
++ [Visual SQL](https://chartio.com/blog/why-we-made-sql-visual-and-how-we-finally-did-it/)
+
 + [SQL murder-mystery](https://sql-murder-mystery.datasette.io/sql-murder-mystery)
 
 + [Database Systems](http://webdam.inria.fr/Alice/) - book
