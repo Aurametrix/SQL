@@ -105,6 +105,8 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
  + [Database Lab](https://gitlab.com/postgres-ai/database-lab)
  
  + [SQLite tools for personal analytics](https://dogsheep.github.io/)   
+ 
+ + [sQL-enabled interface of COVID19 data](https://covid-repo-data.herokuapp.com/covid_sql/latest_data)
 
 ##### Other Databases & Query languages
 + [Yugabyte DB](https://jepsen.io/analyses/yugabyte-db-1.1.9)
