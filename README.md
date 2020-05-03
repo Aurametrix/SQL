@@ -29,6 +29,9 @@ https://www.codecademy.com/learn/learn-sql
 ### The HackerRank SQL challenges
 https://www.hackerrank.com/domains/sql/
 
+### Interview Questions
+https://quip.com/2gwZArKuWk7W
+
 ### MySQL tutorial
 http://www.mysqltutorial.org/
 
