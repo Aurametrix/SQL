@@ -30,7 +30,10 @@ https://www.codecademy.com/learn/learn-sql
 https://www.hackerrank.com/domains/sql/
 
 ### Interview Questions
-https://quip.com/2gwZArKuWk7W
+
++ [The Best Medium-Hard Data Analyst](https://quip.com/2gwZArKuWk7W)
+
++ [Cheatsheet](https://algodaily.com/lessons/databases-and-sql-cheat-sheet-for-interviews?view=article)
 
 ### MySQL tutorial
 http://www.mysqltutorial.org/
