@@ -104,6 +104,8 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 
 + [Github archive](https://www.gharchive.org/)
 
++ [History of Authentication Protocols](https://mariadb.org/history-of-mysql-mariadb-authentication-protocols/)
+
     + Tableau/Data Stuio: SAP -> SAP services -> tableau. * Some depts use Excel -> Python -> tableau
     + Stitch / Segment -> BigQuery -> Dataform -> BigQuery -> Looker OR Segment -> Amplitude/Mixpanel
     + Metabase: Postgres -> Metabase (+ Bigquery)  
