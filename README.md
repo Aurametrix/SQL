@@ -128,7 +128,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [InfluxDB, TimescaleDB, OpenTSDB, Graphite](http://devconnected.com/4-best-time-series-databases-to-watch-in-2019/) - 4 Best Time Series Databases To Watch in 2019
 + [SirixDB](https://github.com/sirixdb/sirix)
 + [PatriQL](https://aws.amazon.com/blogs/opensource/announcing-partiql-one-query-language-for-all-your-data/)
-
++ [TurtleeDB](https://github.com/turtle-DB/turtleDB) - in-browser database
 + [HAMAP-SPARQL](https://github.com/sib-swiss/HAMAP-SPARQL) fr genomes and proteomes ([paper](https://academic.oup.com/gigascience/article/9/2/giaa003/5731417))
 
 ### SQL-based utilities
