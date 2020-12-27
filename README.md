@@ -67,6 +67,8 @@ https://cloud.google.com/sql/docs/postgres/
 
 + [Performance monitoring](https://medium.com/@__xuorig__/why-graphql-performance-monitoring-is-hard-41381bc7c44d)
 
++ [Grapg DB in SQL Lite](https://github.com/dpapathanasiou/simple-graph)
+
 ### Improving Azure SQL
 https://feedback.azure.com/forums/217321-sql-database/suggestions/8300487-mysql-and-postgresql-as-daas-from-ms-like-an-azur
 
