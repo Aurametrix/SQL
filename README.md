@@ -104,6 +104,8 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 
 + [BI stack](https://news.ycombinator.com/item?id=21513566) -- 11/12/2019
 
++ [Anomaly detection with plain SQL](https://hakibenita.com/sql-anomaly-detection)
+
 + [Github archive](https://www.gharchive.org/)
 
 + [History of Authentication Protocols](https://mariadb.org/history-of-mysql-mariadb-authentication-protocols/)
