@@ -14,6 +14,8 @@ http://sqlzoo.net/
 
 + [TOP 10 new features in MySQL 8.0 for DBAs & Ops](http://lefred.be/content/top-10-mysql-8-0-features-for-dbas-ops/)
 
++ [Best practices for writing queries](https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices)
+
 ### [Indexing and Tuning](http://use-the-index-luke.com/) - 
 free web-edition of "SQL Performance Explained"
 
