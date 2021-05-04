@@ -113,6 +113,8 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 
 + [Github archive](https://www.gharchive.org/)
 
++ [Practical SQL for data analysis](https://hakibenita.com/sql-for-data-analysis)
+
 + [History of Authentication Protocols](https://mariadb.org/history-of-mysql-mariadb-authentication-protocols/)
 
     + Tableau/Data Stuio: SAP -> SAP services -> tableau. * Some depts use Excel -> Python -> tableau
