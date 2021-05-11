@@ -100,6 +100,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [A history of the distributed transactional database](https://www.infoq.com/articles/relational-nosql-fauna)
 
 + [PostgreSQL as the substructure for IoT and the next wave of computing](https://blog.timescale.com/postgres-accidental-iot-platform-timescaledb-postgresql-time-series-data-7983d28da5af/)
++ [PostgreSQL as a data warehouse](https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/)
 
 + [Visual SQL](https://chartio.com/blog/why-we-made-sql-visual-and-how-we-finally-did-it/)
 
