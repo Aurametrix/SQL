@@ -130,6 +130,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
  + [Database Lab](https://gitlab.com/postgres-ai/database-lab)
  
  + [SQLite tools for personal analytics](https://dogsheep.github.io/)   
+ + [RQLite](https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/)
  
  + [sQL-enabled interface of COVID19 data](https://covid-repo-data.herokuapp.com/covid_sql/latest_data)
  
