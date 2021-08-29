@@ -78,6 +78,10 @@ https://cloud.google.com/sql/docs/postgres/
 
 + [Grapg DB in SQL Lite](https://github.com/dpapathanasiou/simple-graph)
 
+### DuckDB
++ [fast tablesort](https://duckdb.org/2021/08/27/external-sorting.html)
+
+
 ### Improving Azure SQL
 https://feedback.azure.com/forums/217321-sql-database/suggestions/8300487-mysql-and-postgresql-as-daas-from-ms-like-an-azur
 
