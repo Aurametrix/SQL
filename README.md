@@ -34,6 +34,8 @@ https://www.hackerrank.com/domains/sql/
 ### Cross-database queries in SQLite
 https://simonwillison.net/2021/Feb/21/cross-database-queries/
 
++ [TUI for viewing sqlite databases](https://github.com/mathaou/sqlite-tui)
+
 ### Interview Questions
 
 + [The Best Medium-Hard Data Analyst](https://quip.com/2gwZArKuWk7W)
