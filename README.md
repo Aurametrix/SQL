@@ -157,6 +157,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [TileDB](https://medium.com/tiledb/tiledb-as-the-data-engine-for-machine-learning-b48fb0e9b147) - for machine learning
 + [R()EST vs. GraphQL vs. gRPC](https://www.danhacks.com/software/grpc-rest-graphql.html)
 + [BerylDB](https://docs.beryl.dev/) - small key-value DB
++ [Keyval](https://keyval.org/) - simple key value db
 
 ### SQL-based utilities
 
