@@ -158,6 +158,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [R()EST vs. GraphQL vs. gRPC](https://www.danhacks.com/software/grpc-rest-graphql.html)
 + [BerylDB](https://docs.beryl.dev/) - small key-value DB
 + [Keyval](https://keyval.org/) - simple key value db
++ [Vector DAtabases](https://dmitry-kan.medium.com/milvus-pinecone-vespa-weaviate-vald-gsi-what-unites-these-buzz-words-and-what-makes-each-9c65a3bd0696)
 
 ### SQL-based utilities
 
