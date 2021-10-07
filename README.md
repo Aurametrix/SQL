@@ -109,6 +109,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 
 + [A history of the distributed transactional database](https://www.infoq.com/articles/relational-nosql-fauna)
 
+
 + [PostgreSQL as the substructure for IoT and the next wave of computing](https://blog.timescale.com/postgres-accidental-iot-platform-timescaledb-postgresql-time-series-data-7983d28da5af/)
 + [PostgreSQL as a data warehouse](https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/)
 
@@ -157,6 +158,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [TileDB](https://medium.com/tiledb/tiledb-as-the-data-engine-for-machine-learning-b48fb0e9b147) - for machine learning
 + [R()EST vs. GraphQL vs. gRPC](https://www.danhacks.com/software/grpc-rest-graphql.html)
 + [BerylDB](https://docs.beryl.dev/) - small key-value DB
++ + [Why NoSQL](https://rxdb.info/why-nosql.html) - RxDB
 + [Keyval](https://keyval.org/) - simple key value db
 + [Vector DAtabases](https://dmitry-kan.medium.com/milvus-pinecone-vespa-weaviate-vald-gsi-what-unites-these-buzz-words-and-what-makes-each-9c65a3bd0696)
 
