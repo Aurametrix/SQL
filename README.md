@@ -75,6 +75,7 @@ https://cloud.google.com/sql/docs/postgres/
 
 ### GraphQL
 + [visual editor](https://github.com/slothking-online/graphql-editor)
++ [file upload](https://wundergraph.com/blog/graphql_file_uploads_evaluating_the_5_most_common_approaches)
 
 + [Performance monitoring](https://medium.com/@__xuorig__/why-graphql-performance-monitoring-is-hard-41381bc7c44d)
 
