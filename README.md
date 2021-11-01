@@ -159,11 +159,12 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [TurtleeDB](https://github.com/turtle-DB/turtleDB) - in-browser database
 + [HAMAP-SPARQL](https://github.com/sib-swiss/HAMAP-SPARQL) fr genomes and proteomes ([paper](https://academic.oup.com/gigascience/article/9/2/giaa003/5731417))
 + [TileDB](https://medium.com/tiledb/tiledb-as-the-data-engine-for-machine-learning-b48fb0e9b147) - for machine learning
-+ [R()EST vs. GraphQL vs. gRPC](https://www.danhacks.com/software/grpc-rest-graphql.html)
++ [REST vs. GraphQL vs. gRPC](https://www.danhacks.com/software/grpc-rest-graphql.html)
 + [BerylDB](https://docs.beryl.dev/) - small key-value DB
 + + [Why NoSQL](https://rxdb.info/why-nosql.html) - RxDB
 + [Keyval](https://keyval.org/) - simple key value db
-+ [Vector DAtabases](https://dmitry-kan.medium.com/milvus-pinecone-vespa-weaviate-vald-gsi-what-unites-these-buzz-words-and-what-makes-each-9c65a3bd0696)
++ [Vector Databases](https://dmitry-kan.medium.com/milvus-pinecone-vespa-weaviate-vald-gsi-what-unites-these-buzz-words-and-what-makes-each-9c65a3bd0696)
++ [MangoDB](https://www.mangodb.io/) = an open-source MongoDB alternative 
 
 ### SQL-based utilities
 
