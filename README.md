@@ -31,10 +31,13 @@ https://www.codecademy.com/learn/learn-sql
 ### The HackerRank SQL challenges
 https://www.hackerrank.com/domains/sql/
 
-### Cross-database queries in SQLite
-https://simonwillison.net/2021/Feb/21/cross-database-queries/
+###  SQLite
++ [Cross-database queries](https://simonwillison.net/2021/Feb/21/cross-database-queries/)
 
 + [TUI for viewing sqlite databases](https://github.com/mathaou/sqlite-tui)
+
++ [Most widely deployed and used engine](https://www.sqlite.org/mostdeployed.html)
+
 
 ### Interview Questions
 
