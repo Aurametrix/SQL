@@ -37,6 +37,7 @@ https://www.hackerrank.com/domains/sql/
 + [TUI for viewing sqlite databases](https://github.com/mathaou/sqlite-tui)
 
 + [Most widely deployed and used engine](https://www.sqlite.org/mostdeployed.html)
++ [Semantic Web 3.0 with SQLite](https://ansiwave.net/blog/semantic-web.html)
 
 
 ### Interview Questions
