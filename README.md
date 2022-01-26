@@ -188,6 +188,8 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 
 + [OctoSQL](https://github.com/cube2222/octosql) - query tool to join, analyse and transform data from multiple databases and file formats using SQL
 + [eSQLate](https://github.com/forbesmyester/esqlate) - Build minimum viable admin panels quickly with just SQL
++ [How slow is SELECT](https://vettabase.com/blog/how-slow-is-select/)
++ [Store SQLite in Cloudflare](https://ma.rkusa.st/store-sqlite-in-cloudflare-durable-objects)
 
 
 ### Test
