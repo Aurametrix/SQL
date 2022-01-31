@@ -117,6 +117,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 
 + [A history of the distributed transactional database](https://www.infoq.com/articles/relational-nosql-fauna)
 
++ [Message Queueing with PostgreSQL](https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql)
 
 + [PostgreSQL as the substructure for IoT and the next wave of computing](https://blog.timescale.com/postgres-accidental-iot-platform-timescaledb-postgresql-time-series-data-7983d28da5af/)
 + [PostgreSQL as a data warehouse](https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/)
