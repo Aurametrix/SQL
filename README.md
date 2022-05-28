@@ -91,6 +91,7 @@ https://cloud.google.com/sql/docs/postgres/
 
 ### DuckDB
 + [fast tablesort](https://duckdb.org/2021/08/27/external-sorting.html)
++ [Range Joins](https://duckdb.org/2022/05/27/iejoin.html)
 
 
 ### Improving Azure SQL
