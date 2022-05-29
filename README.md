@@ -171,10 +171,12 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [BerylDB](https://docs.beryl.dev/) - small key-value DB
 + + [Why NoSQL](https://rxdb.info/why-nosql.html) - RxDB
 + [Keyval](https://keyval.org/) - simple key value db
-+ [Vector Databases](https://dmitry-kan.medium.com/milvus-pinecone-vespa-weaviate-vald-gsi-what-unites-these-buzz-words-and-what-makes-each-9c65a3bd0696)
++ [Not All Vector Databases Are Made Equal (2021)](https://dmitry-kan.medium.com/milvus-pinecone-vespa-weaviate-vald-gsi-what-unites-these-buzz-words-and-what-makes-each-9c65a3bd0696)
++ [A Gentle Introduction to Vector Databases (2021)](https://frankzliu.com/2021/12/23/a_gentle_introduction_to_vector_databases.html)
 + [MangoDB](https://www.mangodb.io/) = an open-source MongoDB alternative 
 + [PrQL](https://github.com/max-sixty/prql) - a proposal for a better SQL
-+ [Vector databases](https://frankzliu.com/2021/12/23/a_gentle_introduction_to_vector_databases.html)
+
++ [Time Series and FoundationDB](https://github.com/richardartoul/tsdb-layer)
 
 ### SQL-based utilities
 
