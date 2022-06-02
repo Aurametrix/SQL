@@ -89,6 +89,7 @@ https://cloud.google.com/sql/docs/postgres/
 + [Performance monitoring](https://medium.com/@__xuorig__/why-graphql-performance-monitoring-is-hard-41381bc7c44d)
 
 + [Grapg DB in SQL Lite](https://github.com/dpapathanasiou/simple-graph)
++ [Worst-case optimal joins](http://justinjaffray.com/a-gentle-ish-introduction-to-worst-case-optimal-joins/?try=2)
 
 ### DuckDB
 + [fast tablesort](https://duckdb.org/2021/08/27/external-sorting.html)
