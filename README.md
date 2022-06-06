@@ -179,6 +179,8 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [PrQL](https://github.com/max-sixty/prql) - a proposal for a better SQL
 
 + [Time Series and FoundationDB](https://github.com/richardartoul/tsdb-layer)
++ [June 2022: New Developments in Databases](https://news.ycombinator.com/item?id=31633015) - Fly.io, Netlify, Supabase, Ottertune, Adama platform
+
 
 ### SQL-based utilities
 
