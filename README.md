@@ -71,6 +71,7 @@ http://www.sqlcourse.com/
 + [Hosting SQLite databases on Github Pages](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
 + [Serverless SQL dtabase](https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/)
 + [PRQL](https://github.com/prql/prql) - a proposal for a better SQL
++ [SQLite or Postgres](https://www.twilio.com/blog/sqlite-postgresql-complicated)
 
 
 
