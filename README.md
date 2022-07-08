@@ -179,6 +179,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [A Gentle Introduction to Vector Databases (2021)](https://frankzliu.com/2021/12/23/a_gentle_introduction_to_vector_databases.html)
 + [MangoDB](https://www.mangodb.io/) = an open-source MongoDB alternative 
 + [PrQL](https://github.com/max-sixty/prql) - a proposal for a better SQL
++ [GitDB](https://github.com/gogitdb/gitdb) - ecentralized document database written in Go that uses Git under the hood
 
 + [Time Series and FoundationDB](https://github.com/richardartoul/tsdb-layer)
 + [June 2022: New Developments in Databases](https://news.ycombinator.com/item?id=31633015) - Fly.io, Netlify, Supabase, Ottertune, Adama platform
