@@ -162,6 +162,8 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
  + [sQL-enabled interface of COVID19 data](https://covid-repo-data.herokuapp.com/covid_sql/latest_data)
  
  + [TablePlus](https://tableplus.com/) - GUI for relational databases
+ 
+ + [Run SQL on CSV, Parquet, JSON, Arrow, Unix Pipes and Google Sheet ](https://github.com/roapi/roapi/blob/main/columnq-cli/README.md)
 
 ##### Other Databases & Query languages
 + [Yugabyte DB](https://jepsen.io/analyses/yugabyte-db-1.1.9)
