@@ -73,6 +73,7 @@ http://www.sqlcourse.com/
 + [Serverless SQL dtabase](https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/)
 + [PRQL](https://github.com/prql/prql) - a proposal for a better SQL
 + [SQLite or Postgres](https://www.twilio.com/blog/sqlite-postgresql-complicated)
++ [Postgres full text search](https://supabase.com/blog/postgres-full-text-search-vs-the-rest)
 
 
 
