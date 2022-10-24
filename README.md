@@ -8,7 +8,7 @@ http://www.w3schools.com/sql/default.asp
 http://sqlzoo.net/
 
 ### SQL Basics
-+ [Khan Academy]https://www.khanacademy.org/computing/computer-programming/sql
++ [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
 
 + [SQL for beginners](https://code.tutsplus.com/articles/sql-for-beginners--net-8200)
 
@@ -188,6 +188,8 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 
 + [Time Series and FoundationDB](https://github.com/richardartoul/tsdb-layer)
 + [June 2022: New Developments in Databases](https://news.ycombinator.com/item?id=31633015) - Fly.io, Netlify, Supabase, Ottertune, Adama platform
++ [RDF/OWL vs SQL](https://beyondplm.com/2022/07/05/the-future-of-plm-data-modeling-rdf-owl-vs-sq)
+    + [Ontology of Adverse Events](https://github.com/OAE-ontology/OAE/)
 
 
 ### SQL-based utilities
