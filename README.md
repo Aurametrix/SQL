@@ -126,7 +126,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [A history of the distributed transactional database](https://www.infoq.com/articles/relational-nosql-fauna)
 
 + [Message Queueing with PostgreSQL](https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql)
-
++ [Ruby slow bcs of DB](https://berk.es/2022/08/09/ruby-slow-database-slow/)
 + [PostgreSQL as the substructure for IoT and the next wave of computing](https://blog.timescale.com/postgres-accidental-iot-platform-timescaledb-postgresql-time-series-data-7983d28da5af/)
 + [PostgreSQL as a data warehouse](https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/)
 
@@ -185,6 +185,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [MangoDB](https://www.mangodb.io/) = an open-source MongoDB alternative 
 + [PrQL](https://github.com/max-sixty/prql) - a proposal for a better SQL
 + [GitDB](https://github.com/gogitdb/gitdb) - ecentralized document database written in Go that uses Git under the hood
++ [COZO](https://github.com/cozodb/cozo) - new GraphDB
 
 + [Time Series and FoundationDB](https://github.com/richardartoul/tsdb-layer)
 + [June 2022: New Developments in Databases](https://news.ycombinator.com/item?id=31633015) - Fly.io, Netlify, Supabase, Ottertune, Adama platform
