@@ -10,6 +10,8 @@ http://sqlzoo.net/
 ### SQL Basics
 + [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
 
++ [SQL Alchemy](https://www.sqlalchemy.org/blog/2023/01/26/sqlalchemy-2.0.0-released/)
+
 + [SQL for beginners](https://code.tutsplus.com/articles/sql-for-beginners--net-8200)
 
 + [TOP 10 new features in MySQL 8.0 for DBAs & Ops](http://lefred.be/content/top-10-mysql-8-0-features-for-dbas-ops/)
