@@ -126,6 +126,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 ### Interesting
 
 + [A history of the distributed transactional database](https://www.infoq.com/articles/relational-nosql-fauna)
++ [OpenAI to SQLite](https://datasette.io/tools/openai-to-sqlite)
 
 + [Message Queueing with PostgreSQL](https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql)
 + [Ruby slow bcs of DB](https://berk.es/2022/08/09/ruby-slow-database-slow/)
