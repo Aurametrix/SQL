@@ -128,6 +128,8 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [A history of the distributed transactional database](https://www.infoq.com/articles/relational-nosql-fauna)
 + [OpenAI to SQLite](https://datasette.io/tools/openai-to-sqlite)
 
++ [VQD](https://codeberg.org/swapnilmj/web-vqd) - A Web-based Visual Query Designer for Mysql.
+
 + [Message Queueing with PostgreSQL](https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql)
 + [Ruby slow bcs of DB](https://berk.es/2022/08/09/ruby-slow-database-slow/)
 + [PostgreSQL as the substructure for IoT and the next wave of computing](https://blog.timescale.com/postgres-accidental-iot-platform-timescaledb-postgresql-time-series-data-7983d28da5af/)
