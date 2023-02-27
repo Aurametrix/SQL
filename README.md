@@ -136,10 +136,12 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [PostgreSQL as a data warehouse](https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/)
 
 + [Visual SQL](https://chartio.com/blog/why-we-made-sql-visual-and-how-we-finally-did-it/)
-
+90
 + [SQL murder-mystery](https://sql-murder-mystery.datasette.io/sql-murder-mystery)
 
 + [Database Systems](http://webdam.inria.fr/Alice/) - book
++ [A relational spreadsheet](https://kevinlynagh.com/relational-spreadsheet/)
+
 
 + [BI stack](https://news.ycombinator.com/item?id=21513566) -- 11/12/2019
 
