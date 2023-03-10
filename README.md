@@ -164,6 +164,8 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
  
  + [Database Lab](https://gitlab.com/postgres-ai/database-lab)
  
+ + ChatGPT finding bugs in DBs[](https://celerdata.com/blog/chatgpt-is-now-finding-bugs-in-databases)
+ 
  + [SQLite tools for personal analytics](https://dogsheep.github.io/)   
  + [SQLite for NoSQL](https://news.ycombinator.com/item?id=27490361)
  + [RQLite](https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/)
