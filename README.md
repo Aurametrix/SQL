@@ -200,9 +200,11 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 
 + [Time Series and FoundationDB](https://github.com/richardartoul/tsdb-layer)
 + [June 2022: New Developments in Databases](https://news.ycombinator.com/item?id=31633015) - Fly.io, Netlify, Supabase, Ottertune, Adama platform
+
 + [RDF/OWL vs SQL](https://beyondplm.com/2022/07/05/the-future-of-plm-data-modeling-rdf-owl-vs-sq)
     + [Ontology of Adverse Events](https://github.com/OAE-ontology/OAE/)
 
++ [Milvus](https://milvus.io/)- vector database built for scalable similarity search
 
 ### SQL-based utilities
 
