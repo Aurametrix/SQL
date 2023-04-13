@@ -193,7 +193,8 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [Not All Vector Databases Are Made Equal (2021)](https://dmitry-kan.medium.com/milvus-pinecone-vespa-weaviate-vald-gsi-what-unites-these-buzz-words-and-what-makes-each-9c65a3bd0696)
 + KVASS[](https://github.com/maxmunzel/kvass) - a personal key-value store
 + [A Gentle Introduction to Vector Databases (2021)](https://frankzliu.com/2021/12/23/a_gentle_introduction_to_vector_databases.html)
-+ [MangoDB](https://www.mangodb.io/) = an open-source MongoDB alternative 
++ [MangoDB](https://www.mangodb.io/) - an open-source MongoDB alternative 
++ [FERRETDB](https://blog.ferretdb.io/ferretdb-1-0-ga-opensource-mongodb-alternative/) - renamed open-source MongoDB alternative 
 + [PrQL](https://github.com/max-sixty/prql) - a proposal for a better SQL
 + [GitDB](https://github.com/gogitdb/gitdb) - ecentralized document database written in Go that uses Git under the hood
 + [COZO](https://github.com/cozodb/cozo) - new GraphDB
