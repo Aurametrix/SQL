@@ -7,6 +7,8 @@ http://www.w3schools.com/sql/default.asp
 ### SQLZoo Interactive SQL tutorial
 http://sqlzoo.net/
 
+[SQL Learning Game](https://lost-at-sql.therobinlord.com/)
+
 ### SQL Basics
 + [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
 
