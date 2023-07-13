@@ -78,6 +78,7 @@ http://www.sqlcourse.com/
 + [PRQL](https://github.com/prql/prql) - a proposal for a better SQL
 + [SQLite or Postgres](https://www.twilio.com/blog/sqlite-postgresql-complicated)
 + [Postgres full text search](https://supabase.com/blog/postgres-full-text-search-vs-the-rest)
++ [Advanced search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine)
 
 
 
