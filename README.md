@@ -211,6 +211,8 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [Milvus](https://milvus.io/)- vector database built for scalable similarity search
 
 + [The inner workings of distributed databases](https://questdb.io/blog/inner-workings-distributed-databases/)
++ [DB Engine ranking](https://db-engines.com/en/ranking)
++ [Database of databases](https://dbdb.io/)
 
 ### SQL-based utilities
 
