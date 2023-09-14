@@ -83,13 +83,15 @@ http://www.sqlcourse.com/
 
 
 
-### Google Cloud SQL for Postgres
-https://cloud.google.com/sql/docs/postgres/
+### Postgres
++ [Google Cloud SQL for Postgres](https://cloud.google.com/sql/docs/postgres/)
 
 + [Introduction to Hacking PostgreSQL](http://www.neilconway.org/talks/hacking/)
 
 + [Parallelism for Postgres](https://www.percona.com/blog/2019/07/30/parallelism-in-postgresql/)
 + [Parallel hashes](https://write-skew.blogspot.com/2018/01/parallel-hash-for-postgresql.html)
+
++ [Lantern](https://github.com/lanterndata/lantern) - open-source PostgreSQL database extension to store vector data, generate embeddings, and handle vector search operations & [building AI applications](https://news.ycombinator.com/item?id=37499375)
 
 ### GraphQL
 + [visual editor](https://github.com/slothking-online/graphql-editor)
