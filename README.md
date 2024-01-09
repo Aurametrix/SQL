@@ -68,6 +68,7 @@ http://www.sqlcourse.com/
 
 + PostgreSQL 11 [Built-in web search](https://habrahabr.info/development/postgresql/1310-whats-new-in-postgresql-11-built-in-web-search.html)
 + [Free Postgres DBs](https://fly.io/blog/free-postgres/)
++ [Production Postgres](https://www.crunchydata.com/blog/an-overview-of-distributed-postgresql-architectures) - An Overview of Distributed PostgreSQL Architectures
 
 + [Intro to PostgreSQL](https://ncona.com/2020/01/introduction-to-postgresql/)
 + [NEon](https://neon.tech/) - serverless Postgres
