@@ -238,6 +238,8 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [Store SQLite in Cloudflare](https://ma.rkusa.st/store-sqlite-in-cloudflare-durable-objects)
 + [Seed DB with real data](https://github.com/qovery/replibyte)
 
++ [SQL for data sciences](https://gvwilson.github.io/sql-tutorial/) - in 100 Queries
+
 
 ### Test
 
