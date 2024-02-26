@@ -65,6 +65,7 @@ http://www.sqlcourse.com/
 + [Database Modeler](https://pgmodeler.io/), / [github](https://github.com/rkhaotix/pgmodeler)
 
 + [AlaSQL.js](https://github.com/agershun/alasql) - - JavaScript SQL database for browser and Node.js
++ [ISQuery](https://osquery.io/) - Query your devices like a database
 
 + PostgreSQL 11 [Built-in web search](https://habrahabr.info/development/postgresql/1310-whats-new-in-postgresql-11-built-in-web-search.html)
 + [Free Postgres DBs](https://fly.io/blog/free-postgres/)
