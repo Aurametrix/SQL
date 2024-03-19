@@ -70,6 +70,8 @@ http://www.sqlcourse.com/
 + [AlaSQL.js](https://github.com/agershun/alasql) - - JavaScript SQL database for browser and Node.js
 + [ISQuery](https://osquery.io/) - Query your devices like a database
 
++ [ transqlate: ](https://gitlab.com/dalibo/transqlate) Transpile any SQL to PostgreSQL Dialect
+
 + PostgreSQL 11 [Built-in web search](https://habrahabr.info/development/postgresql/1310-whats-new-in-postgresql-11-built-in-web-search.html)
 + [Free Postgres DBs](https://fly.io/blog/free-postgres/)
 + [Production Postgres](https://www.crunchydata.com/blog/an-overview-of-distributed-postgresql-architectures) - An Overview of Distributed PostgreSQL Architectures
