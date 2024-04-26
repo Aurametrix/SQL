@@ -143,6 +143,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [FORM to DB](https://www.formtodb.com/) - Skip custom React forms or messy ETL from spreadsheets. Build forms on top of your Postgres, MySQL or MSSQL database.
 
 + [VQD](https://codeberg.org/swapnilmj/web-vqd) - A Web-based Visual Query Designer for Mysql.
++ [](https://www.osohq.com/post/logic-language-distributed-sql-queries) - a logic language for distributed SQL queries
 
 + [Message Queueing with PostgreSQL](https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql)
 + [Ruby slow bcs of DB](https://berk.es/2022/08/09/ruby-slow-database-slow/)
