@@ -46,6 +46,7 @@ https://www.hackerrank.com/domains/sql/
 + [Most widely deployed and used engine](https://www.sqlite.org/mostdeployed.html)
 + [Semantic Web 3.0 with SQLite](https://ansiwave.net/blog/semantic-web.html)
 + [Testing consistency of rqlite](https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md)
++ [Fun Facts abnout SQLite](https://avi.im/blag/2024/sqlite-facts/)
 
 
 ### Interview Questions
