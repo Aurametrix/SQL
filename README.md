@@ -145,7 +145,8 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [Databases in 2024](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
 
 + [VQD](https://codeberg.org/swapnilmj/web-vqd) - A Web-based Visual Query Designer for Mysql.
-+ [](https://www.osohq.com/post/logic-language-distributed-sql-queries) - a logic language for distributed SQL queries
++ [A logic language for distributed SQL queries](https://www.osohq.com/post/logic-language-distributed-sql-queries)
++ [You Don't Need SQL query builder](https://mattrighetti.com/2025/01/20/you-dont-need-sql-builders)
 
 + [Message Queueing with PostgreSQL](https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql)
 + [Ruby slow bcs of DB](https://berk.es/2022/08/09/ruby-slow-database-slow/)
