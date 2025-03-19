@@ -231,6 +231,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [The inner workings of distributed databases](https://questdb.io/blog/inner-workings-distributed-databases/)
 + [DB Engine ranking](https://db-engines.com/en/ranking)
 + [Database of databases](https://dbdb.io/)
++ [Building AI agents to query your databases](https://blog.dust.tt/spreadsheets-databases-and-beyond-creating-a-universal-ai-query-layer/)
 
 ### SQL-based utilities
 
