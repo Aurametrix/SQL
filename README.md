@@ -232,6 +232,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [DB Engine ranking](https://db-engines.com/en/ranking)
 + [Database of databases](https://dbdb.io/)
 + [Building AI agents to query your databases](https://blog.dust.tt/spreadsheets-databases-and-beyond-creating-a-universal-ai-query-layer/)
++ [SpacetimeDB](https://spacetimedb.com/) -  a relational database and a server combined into one. 
 
 ### SQL-based utilities
 
