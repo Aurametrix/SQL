@@ -143,6 +143,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [OpenAI to SQLite](https://datasette.io/tools/openai-to-sqlite)
 + [FORM to DB](https://www.formtodb.com/) - Skip custom React forms or messy ETL from spreadsheets. Build forms on top of your Postgres, MySQL or MSSQL database.
 + [Databases in 2024](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
++ [Instant SQL](https://motherduck.com/blog/introducing-instant-sql/)
 
 + [VQD](https://codeberg.org/swapnilmj/web-vqd) - A Web-based Visual Query Designer for Mysql.
 + [A logic language for distributed SQL queries](https://www.osohq.com/post/logic-language-distributed-sql-queries)
