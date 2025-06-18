@@ -110,6 +110,7 @@ http://www.sqlcourse.com/
 
 + [Grapg DB in SQL Lite](https://github.com/dpapathanasiou/simple-graph)
 + [Worst-case optimal joins](http://justinjaffray.com/a-gentle-ish-introduction-to-worst-case-optimal-joins/?try=2)
++ [Working Draft of GraphQL](https://spec.graphql.org/draft/)
 
 ### DuckDB
 + [fast tablesort](https://duckdb.org/2021/08/27/external-sorting.html)
