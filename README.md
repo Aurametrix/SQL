@@ -88,6 +88,7 @@ http://www.sqlcourse.com/
 + [Postgres full text search](https://supabase.com/blog/postgres-full-text-search-vs-the-rest)
 + [paradedb](https://github.com/paradedb/paradedb) - ElasticSearch alternative built on Postgres
 + [Advanced search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine)
++ [Speeding up pgstream](https://xata.io/blog/behind-the-scenes-speeding-up-pgstream-snapshots-for-postgresql)
 
 
 
