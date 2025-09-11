@@ -72,6 +72,7 @@ http://www.sqlcourse.com/
 + [ISQuery](https://osquery.io/) - Query your devices like a database
 
 + [ transqlate: ](https://gitlab.com/dalibo/transqlate) Transpile any SQL to PostgreSQL Dialect
++ [Postgres internals deep dive](https://www.enterprisedb.com/blog/postgres-internals-deep-dive-process-architecture)
 
 + PostgreSQL 11 [Built-in web search](https://habrahabr.info/development/postgresql/1310-whats-new-in-postgresql-11-built-in-web-search.html)
 + [Free Postgres DBs](https://fly.io/blog/free-postgres/)
