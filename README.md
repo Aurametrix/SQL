@@ -77,9 +77,12 @@ http://www.sqlcourse.com/
 + PostgreSQL 11 [Built-in web search](https://habrahabr.info/development/postgresql/1310-whats-new-in-postgresql-11-built-in-web-search.html)
 + [Free Postgres DBs](https://fly.io/blog/free-postgres/)
 + [Production Postgres](https://www.crunchydata.com/blog/an-overview-of-distributed-postgresql-architectures) - An Overview of Distributed PostgreSQL Architectures
++ [Postgres conference](postgresconf.org) - August 21-23 2026
++ [Moving Tables across Postgres instances](https://ananthakumaran.in/2025/11/02/moving-tables-across-postgres-instances.html)
++ [Kafka is fast - I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks)
 
 + [Intro to PostgreSQL](https://ncona.com/2020/01/introduction-to-postgresql/)
-+ [NEon](https://neon.tech/) - serverless Postgres
++ [Neon](https://neon.tech/) - serverless Postgres
 + [postgres](https://dagster.io/blog/skip-kafka-use-postgres-message-queue) - a better message queue than Kafka
 
 + [Hosting SQLite databases on Github Pages](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
