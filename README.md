@@ -265,6 +265,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [Seed DB with real data](https://github.com/qovery/replibyte)
 
 + [SQL for data sciences](https://gvwilson.github.io/sql-tutorial/) - in 100 Queries
++ [sqlit](https://github.com/Maxteabag/sqlit) - The lazygit of SQL databases. Connect to Postgres, MySQL, SQL Server, SQLite, Supabase, Turso, and more
 
 
 ### Test
