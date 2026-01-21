@@ -151,6 +151,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [FORM to DB](https://www.formtodb.com/) - Skip custom React forms or messy ETL from spreadsheets. Build forms on top of your Postgres, MySQL or MSSQL database.
 + [Databases in 2024](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
 + [Instant SQL](https://motherduck.com/blog/introducing-instant-sql/)
++ [Avoid Fan Traps in System Diagrams](https://www.ilograph.com/blog/posts/avoid-fan-traps-in-system-diagrams/)
 
 + [VQD](https://codeberg.org/swapnilmj/web-vqd) - A Web-based Visual Query Designer for Mysql.
 + [A logic language for distributed SQL queries](https://www.osohq.com/post/logic-language-distributed-sql-queries)
