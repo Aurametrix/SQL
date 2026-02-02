@@ -204,6 +204,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
  + [Run SQL on CSV, Parquet, JSON, Arrow, Unix Pipes and Google Sheet ](https://github.com/roapi/roapi/blob/main/columnq-cli/README.md)
  
  + [gradient descent](https://maxhalford.github.io/blog/ogd-in-sql/) algorithm
+ + [Efficient String Compression for Modern Database Systems](https://cedardb.com/blog/string_compression/)
 
 ##### Other Databases & Query languages
 + [Yugabyte DB](https://jepsen.io/analyses/yugabyte-db-1.1.9)
