@@ -80,6 +80,7 @@ http://www.sqlcourse.com/
 + [Postgres conference](postgresconf.org) - August 21-23 2026
 + [Moving Tables across Postgres instances](https://ananthakumaran.in/2025/11/02/moving-tables-across-postgres-instances.html)
 + [Kafka is fast - I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks)
++ [Sync Strip to Postgres](https://github.com/pretzelai/stripe-no-webhooks)
 
 + [Intro to PostgreSQL](https://ncona.com/2020/01/introduction-to-postgresql/)
 + [Neon](https://neon.tech/) - serverless Postgres
