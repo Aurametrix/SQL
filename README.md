@@ -84,6 +84,7 @@ http://www.sqlcourse.com/
 
 + [Intro to PostgreSQL](https://ncona.com/2020/01/introduction-to-postgresql/)
 + [Neon](https://neon.tech/) - serverless Postgres
++ [you just need Postgres](https://youjustneedpostgres.com/)
 + [postgres](https://dagster.io/blog/skip-kafka-use-postgres-message-queue) - a better message queue than Kafka
 
 + [Hosting SQLite databases on Github Pages](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
