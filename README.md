@@ -148,6 +148,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 ### Interesting
 
 + [A history of the distributed transactional database](https://www.infoq.com/articles/relational-nosql-fauna)
++ [Do you even need a database?](https://www.dbpro.app/blog/do-you-even-need-a-database)
 + [the HTTP query method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-14.html)
 + [OpenAI to SQLite](https://datasette.io/tools/openai-to-sqlite)
 + [FORM to DB](https://www.formtodb.com/) - Skip custom React forms or messy ETL from spreadsheets. Build forms on top of your Postgres, MySQL or MSSQL database.
