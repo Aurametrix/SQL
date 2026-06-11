@@ -220,7 +220,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [TileDB](https://medium.com/tiledb/tiledb-as-the-data-engine-for-machine-learning-b48fb0e9b147) - for machine learning
 + [REST vs. GraphQL vs. gRPC](https://www.danhacks.com/software/grpc-rest-graphql.html)
 + [BerylDB](https://docs.beryl.dev/) - small key-value DB
-+ + [Why NoSQL](https://rxdb.info/why-nosql.html) - RxDB
++ [Why NoSQL](https://rxdb.info/why-nosql.html) - RxDB
 + [Keyval](https://keyval.org/) - simple key value db
 + [Not All Vector Databases Are Made Equal (2021)](https://dmitry-kan.medium.com/milvus-pinecone-vespa-weaviate-vald-gsi-what-unites-these-buzz-words-and-what-makes-each-9c65a3bd0696)
 + KVASS[](https://github.com/maxmunzel/kvass) - a personal key-value store
@@ -232,6 +232,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [COZO](https://github.com/cozodb/cozo) - new GraphDB
 + [InstantDB](https://github.com/instantdb/instant) - a modern Firebase - client-side database that makes it easy to build real-time and collaborative apps like Notion or Figma.
 + [vaultsql](https://vaultsql.com/) - The Zero-Trust SQL Workbench for Teams
++ [HelixDB](https://github.com/HelixDB/helix-db/tree/main) a graph-vector database for knowledge graphs and AI memory. Built from scratch in Rust.
 
 + [Time Series and FoundationDB](https://github.com/richardartoul/tsdb-layer)
 + [June 2022: New Developments in Databases](https://news.ycombinator.com/item?id=31633015) - Fly.io, Netlify, Supabase, Ottertune, Adama platform
