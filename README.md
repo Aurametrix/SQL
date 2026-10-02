@@ -178,6 +178,8 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 
 + [Anomaly detection with plain SQL](https://hakibenita.com/sql-anomaly-detection)
 
++ [RIP vector database](https://turbopuffer.com/blog/rip-vector-database)
+
 + [Github archive](https://www.gharchive.org/)
 
 + [Practical SQL for data analysis](https://hakibenita.com/sql-for-data-analysis)
