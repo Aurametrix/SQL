@@ -246,6 +246,7 @@ https://feedback.azure.com/forums/217321-sql-database/filters/top
 + [Milvus](https://milvus.io/)- vector database built for scalable similarity search
 
 + [ChartDB](https://github.com/chartdb/chartdb) - open-source DB diagrams editor
++ [ParticleDB](https://jepsen.io/analyses/particledb-1.1.4)
 
 + [The inner workings of distributed databases](https://questdb.io/blog/inner-workings-distributed-databases/)
 + [DB Engine ranking](https://db-engines.com/en/ranking)
